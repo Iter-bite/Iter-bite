@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hiya, I'm Íter!
 
-<!--
-**Iter-bite/Iter-bite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="320" src="./Cheshire_Cat_Tea.gif">
 
-Here are some ideas to get you started:
+I’m way more used to working with Crowdin and handling the translations myself, so bear with me... *and please, don’t go on any 1,000 line translation marathons.* We’re not bilingual.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since March 2, I’ve been rewriting and expanding the Spanish localization for the video game Final Sentence. The new localization will be included in the upcoming September language update, replacing the current clunky placeholder text. <a href="https://discord.com/invite/UtxqEMn37c"><img src="https://img.shields.io/badge/Discord-Final%20Sentence-5865F2?logo=discord&logoColor=white" alt="Final Sentence Discord"></a>
+
+Also, since I still remember a thing or two about ICD-10 coding, I’m helping with a comprehensive review of the Spanish localization for Casualties: Unknown. Any help would be greatly appreciated, as there’s still a lot of work to be done. <a href="https://discord.com/invite/VeCSKv7AKa"><img src="https://img.shields.io/badge/Discord-Casualties%3A%20Unknown-5865F2?logo=discord&logoColor=white" alt="Casualties: Unknown Discord"></a>
+
+And lastly, drink black tea, get your 7,000 steps in every day, do some strength training, get plenty of sleep and go to bed at a decent hour, eat relatively healthy, socialize a little, and enjoy your intimate life... if that’s even possible when you live with family.
+
+#
+
+<p align="center"> <em><strong>If caffeine is unavoidable, it should at least have the decency to come steeped.</strong></em> </p>
+
+<img src="./espanita-dragonite.gif" width="100%" alt="Dragonite Españita">
